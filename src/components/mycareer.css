@@ -1,0 +1,34 @@
+.mycareer
+{
+    margin-top: 35px;
+    display: flex;
+    gap: 20px;
+}
+.ap
+{
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.ap button
+{
+    border: none;
+    padding: 5px 10px;
+    background-color: var(--main);
+    color: var(--gray-100);
+    border-radius: 5px;
+}
+.mycareer p
+{
+    line-height: 2;
+}
+
+@media screen and (max-width: 768px)
+{
+    .mycareer
+    {
+        flex-wrap: wrap;
+    }
+
+}

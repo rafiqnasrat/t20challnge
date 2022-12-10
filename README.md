@@ -1,4 +1,3 @@
-![photo](https://github.com/rafiqnasrat/t20challnge/blob/main/Screenshot%20(32).png)
 # REACT APP PRTOFOLIO 
 I developed the project using reactjs, it is a single page portofolio.
 
