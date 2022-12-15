@@ -16,5 +16,6 @@ Don't hesitate, contact me any time for any query:
 
 - [Email](mailto:Rafiqullahnasrat3@gmail.com)
 - [Github](https://github.com/rafiqnasrat)
-
+- [deploy portfolio](https://t20challnge.vercel.app/)
+  
 # THANK YOU
